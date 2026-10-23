@@ -3,8 +3,8 @@
 Tecnicatura Superior en Desarrollo de Software Multiplataforma - Instituto Politécnico Formosa
 Taller Complementario - React Native II
 
-Alumno/a:
-Fecha de entrega:
+Alumno/a: Stella Bernard
+Fecha de entrega: 23/10/2026
 
 Respuestas de las Partes A a F.
 
